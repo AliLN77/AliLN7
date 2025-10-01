@@ -1,8 +1,5 @@
-
-````markdown name=README.md
 # 👋 Hi, I’m Ali Lotfinia (AliLN77)
 
-![Profile Banner](https://user-images.githubusercontent.com/placeholder/banner.png) <!-- Replace with your own banner or profile image if desired -->
 
 💻 **Software Engineer | IT Specialist | QC & Automation Enthusiast**  
 🌍 Based in Belgium | Passionate about technology, manufacturing, and digital transformation  
